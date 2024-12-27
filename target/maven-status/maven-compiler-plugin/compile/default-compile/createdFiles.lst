@@ -1,0 +1,5 @@
+com\example\planetguide\PlanetGuideApplication.class
+com\example\planetguide\entity\Planet.class
+com\example\planetguide\service\PlanetService.class
+com\example\planetguide\controller\PlanetController.class
+com\example\planetguide\repository\PlanetRepository.class
