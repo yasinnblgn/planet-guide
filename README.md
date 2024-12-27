@@ -37,6 +37,7 @@ Open WebContent/index.html in your browser to use the app.
 ---
 
 API Endpoints
+
 GET /api/planets - Fetch all planets.
 
 POST /api/planets - Add a new planet.
