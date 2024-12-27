@@ -18,7 +18,7 @@ This project is a practical example of using Spring Boot for RESTful APIs integr
 
 - **Frontend**:
   - HTML + Bootstrap for responsive UI.
-  - Vanilla JavaScript for dynamic interactivity.
+  - JavaScript for dynamic interactivity.
 
 ---
 
@@ -54,6 +54,6 @@ src/main/java
 
 
 ---
-TÜRKÇE
+
 
 
