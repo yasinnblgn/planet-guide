@@ -38,8 +38,11 @@ Open WebContent/index.html in your browser to use the app.
 
 API Endpoints
 GET /api/planets - Fetch all planets.
+
 POST /api/planets - Add a new planet.
+
 PUT /api/planets/{id} - Update an existing planet.
+
 DELETE /api/planets/{id} - Delete a planet.
 
 ---
@@ -47,10 +50,14 @@ DELETE /api/planets/{id} - Delete a planet.
 Project Structure
 
 src/main/java
- entity(Planet entity class)
- repository(JPA repository interface)
- service(Business logic layer)
- controller(RESTful API controller)
+
+entity(Planet entity class)
+ 
+repository(JPA repository interface)
+ 
+service(Business logic layer)
+ 
+controller(RESTful API controller)
 
 
 
