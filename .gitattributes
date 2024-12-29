@@ -1,2 +1,13 @@
 # Set Java as the main language for the project
 *.java linguist-language=Java
+
+# Exclude HTML, CSS, and JS files from language detection
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+
+# Treat JSON files as configuration/vendor files
+*.json linguist-vendored
+
+# Markdown files for documentation
+*.md linguist-documentation
