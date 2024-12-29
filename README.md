@@ -28,7 +28,7 @@ This project is a practical example of using Spring Boot for RESTful APIs integr
 
 ---
 
-2- Run the Spring Boot application:
+## Run the Spring Boot application:
 
 ./mvnw spring-boot:run
 
@@ -36,7 +36,7 @@ Open WebContent/index.html in your browser to use the app.
 
 ---
 
-API Endpoints
+## API Endpoints
 
 GET /api/planets - Fetch all planets.
 
@@ -48,7 +48,7 @@ DELETE /api/planets/{id} - Delete a planet.
 
 ---
 
-Project Structure
+## Project Structure
 
 src/main/java
 
